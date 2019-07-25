@@ -15,7 +15,7 @@ Certains collègues sont de la même famille. Ils ne peuvent pas offrir de cadea
 On récupère désormais une liste de type `[{name: 'frodo', family: 'baggins'}, {name: 'bilbo', family: 'baggins'}, {name: 'sam'}, {name: 'merry'}, {name: 'pipin}]`
 
 ### 3 : des absents
-Certaines personnes ne seront pas présente le jour du secret santa, elle apparaissent sous la forme : `{name: 'gandal', absent: true}`. Ce qui donne une liste comme `[{name: 'frodo', family: 'baggins'}, {name: 'bilbo', family: 'baggins'}, {name: 'waldo', family: 'baggins', absent: true}, {name: 'sam', absent: true}, {name: 'merry'}, {name: 'pipin}]`
+Certaines personnes ne seront pas présentes le jour du secret santa, elle apparaissent sous la forme : `{name: 'gandalf', absent: true}`. Ce qui donne une liste comme `[{name: 'frodo', family: 'baggins'}, {name: 'bilbo', family: 'baggins'}, {name: 'waldo', family: 'baggins', absent: true}, {name: 'sam', absent: true}, {name: 'merry'}, {name: 'pipin}]`
 
 ### 4-bonus : une interface
 
