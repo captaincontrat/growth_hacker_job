@@ -23,4 +23,4 @@ Il faut réutiliser ce qui a été fait dans une mini interface web qui permet d
 
 ## Exercice 2 : Elevator saga
 
-Fournir du code pour aller le plus loin possible sur https://play.elevatorsaga.com/
+Fournir du code pour aller le plus loin possible sur https://play.elevatorsaga.com/. A toi de te limiter à un temps qui te paraît raisonnable.
