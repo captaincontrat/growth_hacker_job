@@ -4,7 +4,7 @@ Sujet du test technique pour le poste de growth hacker
 ## Exercice 1 : gestion de collègues
 
 Le but de cet exercice est de fournir un ou plusieurs fichiers js qui permettent de traiter les problématiques suivantes.
-Attention, comme ce sont des problèmes sérieux sur lesquels on voudra retravailler et qu'on voudra améliorer, il faut que le code soit facilement réutilisable dans des situations différentes (avec des listes de collègues différentes par exemple, ou carrément sur une autre application)
+Attention, comme ce sont des problèmes sérieux sur lesquels on voudra retravailler et qu'on voudra améliorer, il faut que le code soit facilement réutilisable comme une librairie dans des situations différentes (avec des listes de collègues différentes par exemple, ou carrément sur une autre application)
 
 ### 1 : secret santa
 On récupère une liste de collègues de type `['frodo', 'sam', 'merry', 'pipin', 'bilbo']`.
