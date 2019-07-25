@@ -8,7 +8,7 @@ Attention, comme ce sont des problèmes sérieux sur lesquels on voudra retravai
 
 ### 1 : secret santa
 On récupère une liste de collègues de type `['frodo', 'sam', 'merry', 'pipin', 'bilbo']`.
-On veut récupérer une liste de secret santa qui attribue aléatoirement à chaque personne une autre à qui elle offre un cadeau, sachant qu'on ne peut avoir comme secret santa son propre secret santa.
+On veut récupérer une liste de secret santa qui attribue aléatoirement à chaque personne une autre à qui elle offre un cadeau, sachant qu'on ne peut pas avoir comme secret santa son propre secret santa.
 
 ### 2 : une entreprise familliale
 Certains collègues sont de la même famille. Ils ne peuvent pas offrir de cadeau aux gens de la même famille.
